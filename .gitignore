@@ -177,3 +177,7 @@ pyrightconfig.json
 
 # Dataset Path:
 dataset/
+
+# uv files:
+pyproject.toml
+uv.lock
