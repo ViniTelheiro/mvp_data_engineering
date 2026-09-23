@@ -40,6 +40,11 @@ A base utilizada é o Brazilian E-Commerce Public Dataset by Olist, um conjunto 
 - `product_category_name_translation.csv`
   - tradução dos nomes de categorias
 
+### Plataforma:
+Este trabalho foi desenvolvido integralmente dentro da plataforma Databricks, incluindo a ingestão, transformação, modelagem e análise dos dados em notebooks e estruturas de armazenamento Delta no ambiente da plataforma.
+A imagem abaixo mostra o esquema do dataset criado dentro do Databricks:
+![databricks catalogo](./img/databricks_schema.png)
+
 ## Objetivo do projeto
 
 O projeto foi construído para responder perguntas de negócio relevantes em um cenário de e-commerce, como:
